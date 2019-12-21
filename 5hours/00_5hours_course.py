@@ -8,6 +8,8 @@
 
 # notas tomadas mientras miraba el video, traducción de algunas cosas para poder mostrar a otros despues
 
+# machete a tener a mano https://learnxinyminutes.com/docs/python3/
+
 # comentario
 """ comentario multi
 linea
