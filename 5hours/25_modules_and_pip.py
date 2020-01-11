@@ -16,11 +16,20 @@ print(herramientas_utiles.roll_dice(10))
 # podemos guardar los modulos en una carpeta llamada "lib".
 
 # build-in modules.
+# los que vienen con python por defecto
 # external modules.
-
+# otros modulos que podemos usar, generalmente en una carpeta /lib
 
 # https://youtu.be/rfscVS0vtbw?t=13024
 
 # PIP
-# es una herramienta para administrar paquetes, o librerias.
-#
+# es una herramienta para administrar paquetes, o librerias. Y poder instalarlos en nuestra maquina facilmente.
+# viene pre-instalado desde Python 3.
+# Para saber si lo tengo: $ pip --version
+# Para saber que paquetes tengo: $ pip list
+# Para instalar algo: $ pip install ModuleName
+# Si quiero instalar algo llamado python-docx
+# $ pip install python-docx
+# en el programa import docx y luego usarlo ... docx.MetodoDeDocx
+# con $ pip uninstall, lo desinstalamos.
+
