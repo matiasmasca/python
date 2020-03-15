@@ -11,6 +11,8 @@
 # try:_ https://www.python.org/shell/
 # https://repl.it/@matiasmasca/trypython
 
+# Para ver que hace el código paso a paso.
+# http://pythontutor.com/visualize.html#mode=edit
 
 # comentario
 """ comentario multi

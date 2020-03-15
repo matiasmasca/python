@@ -7,23 +7,13 @@ print("pero a el no le gustaba tener 70 años.")
 """
 
 # segundo
+# No se puede usar una variable a la que no se ha asignado previamente un valor
 # NOTA: separar nombres con _, snake_case
-chacarter_name = "Fulanito"
-chacarter_age = "35"
+nombre_personaje = "Fulanito"
+edad_personaje = "35"
 
-print("Una vez hubo un persona llamada " + chacarter_name + ", ")
-print("el tenia " + chacarter_age + " años. ")
-print("A él realmente le gustaba el nombre " + chacarter_name + ", ")
-print("pero a el no le gustaba tener " + chacarter_age + " años.")
+print("Una vez hubo un persona llamada " + nombre_personaje + ", ")
+print("el tenia " + edad_personaje + " años. ")
+print("A él realmente le gustaba el nombre " + nombre_personaje + ", ")
+print("pero a el no le gustaba tener " + edad_personaje + " años.")
 
-# Tercero. tipo de datos.
-"""
-chacarter_name = "John" # Tom
-chacarter_age = 35 #22
-is_male = True
-
-print("Una vez hubo un persona llamada " + chacarter_name + ", ")
-print("el tenia " + str(chacarter_age) + " años. ")
-print("A él realmente le gustaba el nombre " + chacarter_name + ", ")
-print("pero a el no le gustaba tener " + str(chacarter_age) + " años.")
-"""
