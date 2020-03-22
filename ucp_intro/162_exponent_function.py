@@ -1,6 +1,6 @@
 # Funcion exponencial.
 # la idea es usar bucles For, para calcular la potencia.
-# pero dentro de uan funcion para ordenar el codigo.
+# pero dentro de una funcion para ordenar el codigo.
 #
 # de forma nativa en python, la potencia se puede calcular como
 print("potencia nativa:")

@@ -9,6 +9,8 @@ print(3 - 5.4)
 print(6 / 3)
 print(3 * 2)
 
+# Estas operaciones se dice que son "expresiones"
+# Cuando la computadora realiza el calculo, se dice que ha "evaluado la expresión"
 
 # El orden en que se efectúan las operaciones es (en principio) de izquierda a derecha. La expresión 1 - 2 + 3, por ejemplo, equivale matemáticamente a ((1 − 2) + 3); por ello decimos que la suma y la resta son operadores asociativos por la izquierda
 print(1 - 2 + 3)

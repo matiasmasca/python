@@ -20,3 +20,14 @@ print(mesesConNumeros[1][1])
 print(mesesConNumeros[2][2])
 
 
+# Tamaño del diccionario.
+# podemos usar len() para obtener el tamaño
+cantidad_meses = len(mesesConNumeros)
+print(cantidad_meses)
+
+# Podemos recorrer un diccionario con un for
+for item in mesesConNumeros:
+    print(item)
+
+
+

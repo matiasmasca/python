@@ -15,4 +15,9 @@ print("El mayor es " + str(resultado))
 
 
 
-
+"""
+Bloques
+Varias líneas de código pueden ser agrupadas en un bloque. Un bloque consiste en líneas de
+código que comparten la indentación (o cantidad de espacios desde el borde izquierdo). Puedes ver dónde comienza y termina un
+bloque mirando el número de espacios antes de de cada una de las líneas.
+"""

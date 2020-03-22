@@ -33,3 +33,15 @@ print(sqrt(36)) # raiz cuadrada
 print(pi)
 print(e)
 
+
+
+
+# Para evitar problemas con los nombres de las variables, las funciones, etc.
+# Hay otra forma de importar. Pero hay que anteponer math.nombre_funcion para poder usar. Es decir nombre_del_modulo.nombre_funcion
+import math
+math.sin(0)
+
+
+import random
+numero = random.randint(1, 20)
+print(numero)

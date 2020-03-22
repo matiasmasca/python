@@ -27,3 +27,10 @@ print("el tenia " + str(edad_personaje) + " años. ")
 print("A él realmente le gustaba el nombre " + nombre_personaje + ", ")
 print("pero a el no le gustaba tener " + str(edad_personaje) + " años.")
 
+"""
+Los nombres de variables son sensibles a mayúsculas. Sensible a mayúsculas significa que el
+mismo nombre de variable con diferente capitalización se considera una variable diferente. De
+modo que nombre_personaje , Nombre_personaje , NOMBRE_PERSONAJE, y nombre_PERSONAJE son cuatro variables diferentes.
+Cada una de ellas contiene su propio valor independiente. Es una mala idea tener variables con diferente
+capitalización en tu programa. En lugar de ello, usa nombres descriptivos para tus variables.
+"""

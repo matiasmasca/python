@@ -20,3 +20,9 @@ def cubo_de_numero(numero):
 resultado = cubo_de_numero(4)
 print(resultado)
 
+
+# Uso de Expresiones en Llamadas a Funciones
+# Como los argumentos son siempre valores individuales. Python evaluará primero esta expresión y luego pasará este valor como argumento.
+
+resultado = cubo_de_numero(2 + 2)
+print(resultado)

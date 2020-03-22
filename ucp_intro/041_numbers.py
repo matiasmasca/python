@@ -51,6 +51,8 @@ print(round(3.14159265359, 2))
 
 
 # Importar otras funciones.
+# hay funciones que existen en archivos diferentes llamados "modulos" y que podemos usar importandolas a nuestro codigo con "import"
+
 from math import *
 
 print(floor(3.9)) #devuelve el numero más chico más cercano, quita los decimales

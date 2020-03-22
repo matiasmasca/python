@@ -12,7 +12,9 @@ print("muy " + "pero " + "muy " + "bueno!")
 # podemos repetir una misma cadena un ciertno numero de veces con el signo *
 print("Esto es una prueba. " * 3)
 
-# funciones para cadenas
+# funciones/métodos para cadenas
+# Los métodos son funciones adjuntas a un valor. Por ejemplo, todos los valores de cadena tienen el método lower(), el cuál devuelve una copia de la cadena en minúsculas.
+
 print(frase.lower()) # convertir a minusculas
 print(frase.upper()) # convertir a MAYUSCULAS
 print(frase.isupper()) # esta todo en mayusculas?
@@ -40,3 +42,17 @@ las tienen un valor numérico inferior a las letras minúsculas (por lo que ’Z
 ’ajo’) y las letras acentuadas son siempre ((mayores)) que sus equivalentes sin acentuar (’aba-
 nico’ es menor que ’ábaco’). Hay formas de solucionar eso, pero ya es otra historia.
 """
+
+# Cadenas Multi-Línea
+"""
+Hasta ahora todas las cadenas han sido de una sola línea y tenían un carácter de comillas al
+principio y al final. Sin embargo, si utiliza comillas triples al comienzo y al final entonces la
+cadena puede ir a lo largo de varias líneas
+"""
+
+print("""
+  una cadena
+  de
+  varias
+  lineas""")
+

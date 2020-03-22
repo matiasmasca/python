@@ -5,7 +5,7 @@
 
 # notas tomadas mientras miraba el video, traducción de algunas cosas para poder mostrar a otros despues
 
-# machete a tener a mano https://learnxinyminutes.com/docs/python3/
+# También hay notas y adaptaciones del libro Invent with python de Al Sweigart
 
 # Para probar sin instalar nada
 # try:_ https://www.python.org/shell/
@@ -37,3 +37,5 @@ print("OJO! el curso supone que usas la version 3 de Python")
 # Ejecutar en la version correcta de Python 3.
 # python3 05_input_from_users.py
 
+
+# machete que es bueno tener a mano https://learnxinyminutes.com/docs/python3/

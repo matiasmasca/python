@@ -24,6 +24,9 @@ print(lista_de_amigos)
 lista_de_amigos.pop()
 print(lista_de_amigos)
 
+# del lista[indice] : del elimina un elmento de la lista por su indice. La sentencia del es una sentencia, no una función ni un operador. No tiene paréntesis ni devuelve un valor.
+del lista_de_amigos[2]
+
 # index: devuelve el indice de un elemento, devuelve un error sino encuentra nada
 print(lista_de_amigos.index("Mateo"))
 
@@ -47,7 +50,9 @@ print(numeros_de_la_suerte)
 otros_amigos = lista_de_amigos.copy()
 print(otros_amigos)
 
-
-
-
-
+# operador in.
+# El operador in te puede decir si un valor está en una lista o no. Las expresiones que usan el
+# operador in devuelven un valor lógico: True si el valor está en la lista y False si no está.
+lista_de_amigos = ["Mateo", "Romeo", "Julieta", "Jonas", "Ricardo", "Sergio", "Sergio"]
+'Jonas' in lista_de_amigos
+'Julian' in lista_de_amigos
